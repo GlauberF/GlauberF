@@ -1,7 +1,7 @@
 ### Hi there, I'm Glauber 👋
 
 ## I am a husband, developer, entrepreneur and consultancy!
-- 🔭 I'm currently working on my startup [vimbo][https://github.com/vimbo]!
+- 🔭 I'm currently working on my startup [vimbo](https://github.com/vimbo)!
 - 🌱 Currently, I'm learning everything 🤣
 - 👯 I contribute content via the javascript world page.
 - 2020 2020 goals: contribute more to open source projects
