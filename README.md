@@ -4,7 +4,7 @@
 - 🔭 I'm currently working on my startup [vimbo](https://github.com/vimbo)!
 - 🌱 Currently, I'm learning everything 🤣
 - 👯 I currently manage the [Mundo Javascript](https://www.facebook.com/mundo.javascript) page.
-- 2020 2020 goals: contribute more to open source projects
+- 2020 goals: contribute more to open source projects
 - ⚡ Curiosity: I love dogs
 
 ### Connect with me:
