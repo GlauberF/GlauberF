@@ -39,5 +39,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/GlauberF/GlauberF/assets/11314585/2153dd1d-4d75-468a-8b57-d4e1068db734" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/GlauberF/GlauberF/assets/11314585/74fbf3c6-3d8c-4ac7-917c-6db07c868a06" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/GlauberF/GlauberF/assets/11314585/f7705240-52b7-4f76-93aa-4fac3f681824" />
+
 
 
