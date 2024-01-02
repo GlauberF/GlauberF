@@ -1,6 +1,6 @@
 ### Hi there, I'm Glauber 👋
 
-## I am a husband, developer!
+## I am a husband and developer!
 - 🌱 Currently, I'm learning everything 🤣
 - ✏️ I currently manage the [Mundo Javascript](https://www.facebook.com/mundo.javascript) page.
 - 🎯 Goals, contribute more to open source projects
