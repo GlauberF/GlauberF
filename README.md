@@ -1,7 +1,6 @@
 ### Hi there, I'm Glauber 👋
 
 ## I am a husband, developer, entrepreneur and consultancy!
-- 🔭 I'm currently working on my startup [vimbo](https://github.com/vimbo)!
 - 🌱 Currently, I'm learning everything 🤣
 - ✏️ I currently manage the [Mundo Javascript](https://www.facebook.com/mundo.javascript) page.
 - 🎯 Goals, contribute more to open source projects
